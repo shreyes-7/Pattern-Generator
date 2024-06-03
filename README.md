@@ -150,6 +150,7 @@ Compile and run main.cpp.
 Follow the on-screen instructions to choose the pattern you want to print and provide any required inputs like rows or columns.
 
 Demo
+
 Here's a demo of how to run and use the patterns:
 
 Compile the code using a C++ compiler.
